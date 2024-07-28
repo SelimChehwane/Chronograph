@@ -5,14 +5,14 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> A mobile app for ordering coffee on-the-go, making it easier for coffee lovers to get their favorite beverages without waiting in line.
+>A Virtual Museum app that allows users to search a world map for archeological objects and filter them throught periods and locations. Selected periods and objects will display info boxes and the ability to expand on the subject with scientific references and articles
 >
-> Coffee Express aims to streamline the coffee-ordering process by providing a user-friendly platform for customers to place orders and pick up their coffee at their convenience. We believe in enhancing the coffee experience by saving time and ensuring customer satisfaction.
+>Chronograph as a concept in a snapshot of time. A visual representation of the evolutions, variantions, and use of archeological objects. The app aims at facilitating access of users to scientific and researched facts about archeological objects.
 
 ### User Stories
-- As a user, I want to browse the menu, so I can find my favorite coffee drinks.
-- As a user, I want to customize my order, so I can add or remove ingredients according to my preferences.
-- As a user, I want to pay for my order through the app, so I can avoid waiting in line at the store.
+- As a user, I want to get accurate fact checked information about archeological objects
+- As a user, I want to have an easy way to visualize the objects around you based on location
+- As a user, I want to have the option to read easy digestible versions of academic research.
 
 <br><br>
 <!-- Tech stack -->
